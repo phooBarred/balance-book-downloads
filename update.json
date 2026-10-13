@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "size": 4702497,
+  "sha256": "3c262d7009d17a726500d090f4459c62bfcab05ea3f7b13871ad67e271f29a26",
+  "minSdk": 26,
+  "notes": "Balance book 0.3.0 adds a built-in Android updater and a redesigned app icon."
+}
