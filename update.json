@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.3",
-  "size": 4706309,
-  "sha256": "ff9265df846cf2ea32586946bada6583accebc6a5fdd1c62c1b35f30c6ad1ef6",
+  "versionCode": 8,
+  "versionName": "0.3.4",
+  "size": 4706421,
+  "sha256": "9c5a7825c38453f7c50f33acb02c4cde75d671f62fff0df7b2bcdd3cef1007b9",
   "minSdk": 26,
-  "notes": "Balance book 0.3.3 keeps dialog actions consistent."
+  "notes": "Balance book 0.3.4 extends consistent dialog controls to expenses and payments."
 }
