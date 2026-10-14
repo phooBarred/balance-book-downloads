@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "size": 4706301,
-  "sha256": "207ff3dfcbbd1933e5f85560e97f83df0041850bed4e383bbf27052ed0856f8c",
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "size": 4706309,
+  "sha256": "ff9265df846cf2ea32586946bada6583accebc6a5fdd1c62c1b35f30c6ad1ef6",
   "minSdk": 26,
-  "notes": "Balance book 0.3.2 introduces a grouped settings menu with read-only summaries and separate editing dialogs."
+  "notes": "Balance book 0.3.3 keeps dialog actions consistent."
 }
