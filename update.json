@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.6",
+  "versionCode": 11,
+  "versionName": "0.3.7",
   "size": 4706345,
-  "sha256": "de9e82246dbd9697b85f4fa43de562f68909d1f7943d8589334e1280c64ce4d0",
+  "sha256": "c1a11c1ba6f132523f39a71740338d92a0acf2f7e499446556d682827636966e",
   "minSdk": 26,
-  "notes": "Balance book 0.3.6 combines download and installation into one Update app action."
+  "notes": "Balance book 0.3.7 shortens the WhatsApp label."
 }
