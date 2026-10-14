@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.4",
-  "size": 4706421,
-  "sha256": "9c5a7825c38453f7c50f33acb02c4cde75d671f62fff0df7b2bcdd3cef1007b9",
+  "versionCode": 9,
+  "versionName": "0.3.5",
+  "size": 4706417,
+  "sha256": "e92e292bd48397709735307a1551a279bf5e07994c8e28c4610643dbf2c980ca",
   "minSdk": 26,
-  "notes": "Balance book 0.3.4 extends consistent dialog controls to expenses and payments."
+  "notes": "Balance book 0.3.5 combines names, default share, and WhatsApp settings."
 }
