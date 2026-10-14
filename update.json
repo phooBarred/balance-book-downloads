@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.3.7",
-  "size": 4706345,
-  "sha256": "c1a11c1ba6f132523f39a71740338d92a0acf2f7e499446556d682827636966e",
+  "versionCode": 12,
+  "versionName": "0.3.8",
+  "size": 4707473,
+  "sha256": "3a7861890719dc37e77802c98a642a36f132a8bbd94f0b6da18fafc683368753",
   "minSdk": 26,
-  "notes": "Balance book 0.3.7 shortens the WhatsApp label."
+  "notes": "Balance book 0.3.8 protects unsaved changes and adds reminder-time settings.\r\n\r\n- Edited dialogs ask before discarding changes. Save becomes available after a change and disables again if you undo it.\r\n- Pick the local time for all child-support reminders, with 9 a.m. as the default.\r\n- Backup time and weekday are side by side.\r\n- App update checks are manual in Settings > About.\r\n- Cleaner Balance and Settings screens, with more space around History and navigation buttons.\r\n\r\nInstall over your existing app to keep your saved ledger. Android 8 or newer."
 }
