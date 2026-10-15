@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.4.1",
-  "size": 4711969,
-  "sha256": "11e1d87ded7bcd7f896f2cf9fd509a2134bb9a7f29fc2a8abc8dd34cef04274b",
+  "versionCode": 15,
+  "versionName": "0.4.2",
+  "size": 4711993,
+  "sha256": "bf295a89d0e5d9b09f550038e582c9e79dcbb5e474966a2fea7a2408bb707812",
   "minSdk": 26,
-  "notes": "Dates and times now display without leading zeros, such as 10/6/2026 and 9:05 AM."
+  "notes": "Child-support updates now say “sent you” for the amount paid separately: −$100 for child support - 10/25 (sent you $275)."
 }
