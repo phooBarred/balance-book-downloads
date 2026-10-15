@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.4.3",
-  "size": 4713941,
-  "sha256": "2b2d9c1a2769b41f936bf0af30cb283579ef2b96ad0406bf01cc1b6d65cc6fd3",
+  "versionCode": 17,
+  "versionName": "0.4.4",
+  "size": 4715157,
+  "sha256": "5cfe860adc991687980a6a49f65bbc7705f371fbac02a67e7e31642c10e31f9e",
   "minSdk": 26,
-  "notes": "Choose which messaging app the single Copy + open button uses in Settings > Messaging app. WhatsApp and WhatsApp Business are separate choices."
+  "notes": "Android Back now closes the top dialog, asks before discarding unsaved changes, and returns other tabs to Balance before leaving the app. Already-sent dollar amounts are protected by the same setting as deletion."
 }
