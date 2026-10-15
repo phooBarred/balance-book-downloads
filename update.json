@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.4.2",
-  "size": 4711993,
-  "sha256": "bf295a89d0e5d9b09f550038e582c9e79dcbb5e474966a2fea7a2408bb707812",
+  "versionCode": 16,
+  "versionName": "0.4.3",
+  "size": 4713941,
+  "sha256": "2b2d9c1a2769b41f936bf0af30cb283579ef2b96ad0406bf01cc1b6d65cc6fd3",
   "minSdk": 26,
-  "notes": "Child-support updates now say “sent you” for the amount paid separately: −$100 for child support - 10/25 (sent you $275)."
+  "notes": "Choose which messaging app the single Copy + open button uses in Settings > Messaging app. WhatsApp and WhatsApp Business are separate choices."
 }
