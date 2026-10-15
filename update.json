@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.8",
-  "size": 4707473,
-  "sha256": "3a7861890719dc37e77802c98a642a36f132a8bbd94f0b6da18fafc683368753",
+  "versionCode": 13,
+  "versionName": "0.4.0",
+  "size": 4711645,
+  "sha256": "8d6f51044df9665cef880e39931a18202a7d53af75c975da27d1c5c38ecdc093",
   "minSdk": 26,
-  "notes": "Balance book 0.3.8 protects unsaved changes and adds reminder-time settings.\r\n\r\n- Edited dialogs ask before discarding changes. Save becomes available after a change and disables again if you undo it.\r\n- Pick the local time for all child-support reminders, with 9 a.m. as the default.\r\n- Backup time and weekday are side by side.\r\n- App update checks are manual in Settings > About.\r\n- Cleaner Balance and Settings screens, with more space around History and navigation buttons.\r\n\r\nInstall over your existing app to keep your saved ledger. Android 8 or newer."
+  "notes": "Balance book 0.4.0 adds permanent deletion, per-transaction Update Sent tracking, one consolidated pending update, and editable WhatsApp templates with tap-to-insert placeholders.\r\n\r\n- Removes old deleted records when upgrading or restoring. Already-sent transactions are protected by default; Settings > Transactions can allow deletion. Deleting removes saved messages containing the transaction and adds no correction line.\r\n- Collects every unsent transaction in date order, preserving original entry order for same-day items. Sent items are excluded; editing an entry makes it pending again.\r\n- Uses compact rounding arrows beside the portion; whole-dollar amounts hide the arrows. Messages show only the selected portion.\r\n- Formats expenses on one line, with portion, description, date, and total. Customize reusable templates in Settings > Message formatting, or edit an individual draft before copying.\r\n- Preserves unsaved-change warnings and icon-only Cancel / Save controls.\r\n\r\nInstall over your existing copy. Do not uninstall or clear app data. Source remains private; new installations start with an empty ledger.\r\n\r\nValidation includes domain/migration tests, phone-sized browser flows, Android unit tests, release lint, and signature verification. Google sign-in, notification delivery, WhatsApp reply selection, and installation on a physical phone are not claimed as tested for this release."
 }
