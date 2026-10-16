@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.8.3",
-  "size": 4721857,
-  "sha256": "984870a3a93aee084ae447aead8efcdf2f46d2a1e5ed7460e8e0fe00d3800549",
+  "versionCode": 22,
+  "versionName": "0.8.4",
+  "size": 4722193,
+  "sha256": "b91d3f939410821660b6c2fff3d5d38e4477c46d94bd7db7fbafc5f6153cd1dc",
   "minSdk": 26,
-  "notes": "Fixes Settings and other pages getting stuck and unable to scroll after closing nested dialogs. You can scroll down to About again."
+  "notes": "Sent balance updates now open as compact read-only records, with the date they were marked sent above the message in a shaded box. Older/newer arrows browse sent updates and disappear at the ends of the history."
 }
