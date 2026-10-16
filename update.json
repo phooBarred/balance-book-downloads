@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.8.0",
-  "size": 4721709,
-  "sha256": "98c490ca00fb1856d7e1658f38b9b3f31f839820d0d31e33927a90d96ae109eb",
+  "versionCode": 19,
+  "versionName": "0.8.1",
+  "size": 4721765,
+  "sha256": "05fc88d339067423e6f954e086db827c570c33f266f9a85c8a86d5e7ec30520e",
   "minSdk": 26,
-  "notes": "History now supports sorting, combined filters, and multiple selection. Payments can include a purpose, and expense, refund, and payment descriptions offer shared autocomplete suggestions. Dialogs and transaction controls have a cleaner layout."
+  "notes": "All dialogs now share a centered layout that stays within the screen, with fixed close/save controls and scrolling content. Message formatting previews the selected template instead of always wrapping it in the full message."
 }
