@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.8.5",
-  "size": 4724685,
-  "sha256": "efd1566d6aa2c008c73dd87c0630e7e8d0a2932e35864f882f5ba3568a8574e9",
+  "versionCode": 24,
+  "versionName": "0.8.6",
+  "size": 4725787,
+  "sha256": "9ceb9626f46ba384e280cc9fcd44662c28748cccab04231f318ff860071b1505",
   "minSdk": 26,
-  "notes": "Dialogs now fit the visible screen, including when the keyboard is open, and scale their maximum width with text size. Headers and actions stay fixed while only the content scrolls."
+  "notes": "Backup comparisons now show when this phone's ledger was last saved and when the Google backup was created, alongside each balance and entry count."
 }
