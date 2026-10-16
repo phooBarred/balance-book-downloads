@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.4.4",
-  "size": 4715157,
-  "sha256": "5cfe860adc991687980a6a49f65bbc7705f371fbac02a67e7e31642c10e31f9e",
+  "versionCode": 18,
+  "versionName": "0.8.0",
+  "size": 4721709,
+  "sha256": "98c490ca00fb1856d7e1658f38b9b3f31f839820d0d31e33927a90d96ae109eb",
   "minSdk": 26,
-  "notes": "Android Back now closes the top dialog, asks before discarding unsaved changes, and returns other tabs to Balance before leaving the app. Already-sent dollar amounts are protected by the same setting as deletion."
+  "notes": "History now supports sorting, combined filters, and multiple selection. Payments can include a purpose, and expense, refund, and payment descriptions offer shared autocomplete suggestions. Dialogs and transaction controls have a cleaner layout."
 }
