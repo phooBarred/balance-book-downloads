@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.8.2",
-  "size": 4721841,
-  "sha256": "cff77babcf92048701cf78e79a2aef875ae669d68598caacfd5615c7c543793c",
+  "versionCode": 21,
+  "versionName": "0.8.3",
+  "size": 4721857,
+  "sha256": "984870a3a93aee084ae447aead8efcdf2f46d2a1e5ed7460e8e0fe00d3800549",
   "minSdk": 26,
-  "notes": "Fixes overflowing placeholder text, moves dialog scrollbars flush against the right border, and keeps History sort controls at fixed widths with newest dates first by default."
+  "notes": "Fixes Settings and other pages getting stuck and unable to scroll after closing nested dialogs. You can scroll down to About again."
 }
