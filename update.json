@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.8.4",
-  "size": 4722193,
-  "sha256": "b91d3f939410821660b6c2fff3d5d38e4477c46d94bd7db7fbafc5f6153cd1dc",
+  "versionCode": 23,
+  "versionName": "0.8.5",
+  "size": 4724685,
+  "sha256": "efd1566d6aa2c008c73dd87c0630e7e8d0a2932e35864f882f5ba3568a8574e9",
   "minSdk": 26,
-  "notes": "Sent balance updates now open as compact read-only records, with the date they were marked sent above the message in a shaded box. Older/newer arrows browse sent updates and disappear at the ends of the history."
+  "notes": "Dialogs now fit the visible screen, including when the keyboard is open, and scale their maximum width with text size. Headers and actions stay fixed while only the content scrolls."
 }
