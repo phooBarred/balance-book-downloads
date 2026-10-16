@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.8.1",
-  "size": 4721765,
-  "sha256": "05fc88d339067423e6f954e086db827c570c33f266f9a85c8a86d5e7ec30520e",
+  "versionCode": 20,
+  "versionName": "0.8.2",
+  "size": 4721841,
+  "sha256": "cff77babcf92048701cf78e79a2aef875ae669d68598caacfd5615c7c543793c",
   "minSdk": 26,
-  "notes": "All dialogs now share a centered layout that stays within the screen, with fixed close/save controls and scrolling content. Message formatting previews the selected template instead of always wrapping it in the full message."
+  "notes": "Fixes overflowing placeholder text, moves dialog scrollbars flush against the right border, and keeps History sort controls at fixed widths with newest dates first by default."
 }
