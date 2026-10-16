@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.8.6",
-  "size": 4725787,
-  "sha256": "9ceb9626f46ba384e280cc9fcd44662c28748cccab04231f318ff860071b1505",
+  "versionCode": 25,
+  "versionName": "0.8.7",
+  "size": 4727227,
+  "sha256": "962e85032db4dea5e1cca90640e0b0eb2bef6980665b9bb70f56bbccfce2d433",
   "minSdk": 26,
-  "notes": "Backup comparisons now show when this phone's ledger was last saved and when the Google backup was created, alongside each balance and entry count."
+  "notes": "Message previews now display WhatsApp formatting, phone numbers are easier to read, and overflowing text fields have narrow scrollbars."
 }
