@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.8.7",
-  "size": 4727227,
-  "sha256": "962e85032db4dea5e1cca90640e0b0eb2bef6980665b9bb70f56bbccfce2d433",
+  "versionCode": 26,
+  "versionName": "0.8.8",
+  "size": 4727631,
+  "sha256": "7faa576548a8c59e9e8484043c84c334daee39a22ae27ccdc342a7615aef13b5",
   "minSdk": 26,
-  "notes": "Message previews now display WhatsApp formatting, phone numbers are easier to read, and overflowing text fields have narrow scrollbars."
+  "notes": "Balance updates now show the correct previous balance after individual transactions are marked sent. Expenses paid by the other parent clearly identify your portion and use the saved percentage or agreed amount."
 }
