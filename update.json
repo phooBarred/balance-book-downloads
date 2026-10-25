@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.8.8",
-  "size": 4727631,
-  "sha256": "7faa576548a8c59e9e8484043c84c334daee39a22ae27ccdc342a7615aef13b5",
+  "versionCode": 27,
+  "versionName": "0.8.9",
+  "size": 4729211,
+  "sha256": "db51ccb84dc20db49d2f9a4f46da16f37dbd026939054d2d7afa901dd455495d",
   "minSdk": 26,
-  "notes": "Balance updates now show the correct previous balance after individual transactions are marked sent. Expenses paid by the other parent clearly identify your portion and use the saved percentage or agreed amount."
+  "notes": "Child-support reminders now open with the deduction filled in and the message preview ready. Fully deducted support no longer says \"sent you $0.\""
 }
