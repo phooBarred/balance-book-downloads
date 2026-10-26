@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.9",
-  "size": 4729211,
-  "sha256": "db51ccb84dc20db49d2f9a4f46da16f37dbd026939054d2d7afa901dd455495d",
+  "versionCode": 28,
+  "versionName": "0.8.10",
+  "size": 4729583,
+  "sha256": "4b2e35afef45a1fa606e2b28d8954783fcce5c0945bb8f4bca105eaf35fd455a",
   "minSdk": 26,
-  "notes": "Child-support reminders now open with the deduction filled in and the message preview ready. Fully deducted support no longer says \"sent you $0.\""
+  "notes": "Improved backup validation and background-task handling, updated dependencies, and removed the starting-balance explanation from the Balance screen."
 }
