@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.8.11",
-  "size": 3870032,
-  "sha256": "431ad640d3ea10ba61781b0cd1341964baee9ceccd1f604dbfcaad5e329eadac",
+  "versionCode": 30,
+  "versionName": "0.8.12",
+  "size": 3870180,
+  "sha256": "a439240337e65dea171f77b7536db6ff7817f16396c8ef490843635cf7ec49d9",
   "minSdk": 26,
-  "notes": "Google backups now use Balance Book's own Google configuration and private app storage in your Google account, separate from the other apps."
+  "notes": "Fix Google backup verification after selecting your account. Existing backups can be read and updated while preserving protection against overwriting a newer backup."
 }
