@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.10",
-  "size": 4729583,
-  "sha256": "4b2e35afef45a1fa606e2b28d8954783fcce5c0945bb8f4bca105eaf35fd455a",
+  "versionCode": 29,
+  "versionName": "0.8.11",
+  "size": 3870032,
+  "sha256": "431ad640d3ea10ba61781b0cd1341964baee9ceccd1f604dbfcaad5e329eadac",
   "minSdk": 26,
-  "notes": "Improved backup validation and background-task handling, updated dependencies, and removed the starting-balance explanation from the Balance screen."
+  "notes": "Google backups now use Balance Book's own Google configuration and private app storage in your Google account, separate from the other apps."
 }
